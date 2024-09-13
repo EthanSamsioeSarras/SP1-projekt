@@ -7,7 +7,7 @@ public class Trampoline : MonoBehaviour
 
     public Animator animator;
 
-    public float jumpForce = 5f;
+    public float jumpForce = 6f;
 
 
     private void OnCollisionEnter2D(Collision2D collision)
